@@ -2,8 +2,6 @@
 
 A repository for organizing assets (primarily visual) for Shibuya's Game.
 
----
-
 ## Technology
 
 - Github (for hosting)
@@ -11,8 +9,6 @@ A repository for organizing assets (primarily visual) for Shibuya's Game.
 - Photoshop CS5 (for editting and templating)
 
 ## Credits
-
-- Default images adapted from The World Ends With You.
 
 1. Manhattan
 
